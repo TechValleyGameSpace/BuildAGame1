@@ -73,3 +73,6 @@ Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+TVGS_Hodgepodge/Intermediate/
+TVGS_Hodgepodge/Saved/
